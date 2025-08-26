@@ -34,4 +34,4 @@ This repository contains basic Python exercises to practice **lists, tuples, dic
 ## ▶️ How to run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+[   git clone https://github.com/leonaldo293/python---Week-Two-Assignment.git ]
